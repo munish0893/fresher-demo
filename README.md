@@ -1,2 +1,2 @@
 # fresher-demo
-this is my frist git repository
+this is my first Git repository
